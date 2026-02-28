@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "輪舞曲 (ロンド)",
+  "base_artist": "Yumi Matsutoya",
+  "createdAt": "2026-02-28T11:44:24.098389Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "輪舞曲 (ロンド)",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/01_輪舞曲_(ロンド)_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "輪舞曲 (ロンド)",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/02_輪舞曲_(ロンド)_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "輪舞曲（ロンド）",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/03_輪舞曲(ロンド)_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "輪舞曲(ロンド)",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/04_輪舞曲(ロンド)_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "輪舞曲 (ロンド)",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_01_輪舞曲_(ロンド)_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "輪舞曲 (ロンド)",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_02_輪舞曲_(ロンド)_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "輪舞曲 (ロンド)",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_03_輪舞曲_(ロンド)_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "輪舞曲 (ロンド)",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_04_輪舞曲_(ロンド)_松任谷_由実.txt"
+    }
+  ]
+}
